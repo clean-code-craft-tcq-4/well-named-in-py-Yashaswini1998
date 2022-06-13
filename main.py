@@ -1,4 +1,4 @@
-from number_functions import *
+from test_functions import *
 
 if __name__ == '__main__':
   test_number_to_pair(4, 'White', 'Brown')

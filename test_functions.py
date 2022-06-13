@@ -1,4 +1,4 @@
-from color_functions import *
+from operation_functions import *
 
 MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
 MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
