@@ -1,7 +1,5 @@
 from operation_functions import *
-
-MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
-MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
+from config import *
 
 def test_number_to_pair(pair_number,
                         expected_major_color, expected_minor_color):
